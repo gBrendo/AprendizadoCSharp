@@ -1,0 +1,15 @@
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\bin\Debug\net6.0\EstoqueProdutos.exe
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\bin\Debug\net6.0\EstoqueProdutos.deps.json
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\bin\Debug\net6.0\EstoqueProdutos.runtimeconfig.json
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\bin\Debug\net6.0\EstoqueProdutos.dll
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\bin\Debug\net6.0\EstoqueProdutos.pdb
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\EstoqueProdutos.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\EstoqueProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\EstoqueProdutos.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\EstoqueProdutos.AssemblyInfo.cs
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\EstoqueProdutos.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\EstoqueProdutos.dll
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\refint\EstoqueProdutos.dll
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\EstoqueProdutos.pdb
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\EstoqueProdutos.genruntimeconfig.cache
+C:\Users\brend\OneDrive\PROGRAMAÇÃO\C#\ProjetosUdemy\ProjetoAula4\EstoqueProdutos\EstoqueProdutos\obj\Debug\net6.0\ref\EstoqueProdutos.dll
